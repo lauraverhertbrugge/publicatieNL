@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
@@ -78,6 +79,9 @@
 
 
 
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -105,6 +109,9 @@
   font-size: 17px;
   color: #4c6972;
 }
+#msg-box3-10 .mbr-article P {
+  font-family: 'Open Sans', sans-serif;
+}
 #content5-18 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -117,9 +124,18 @@
   color: #fff;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+#header3-33 H3 {
+  text-align: center;
+}
+#header3-33 P {
+  font-family: 'Open Sans', sans-serif;
+}
 #footer1-2 P {
   color: #ffffff;
   font-size: 16px;
+}
+#features1-29 .mbr-section__col .mbr-header__text {
+  font-family: 'Open Sans', sans-serif;
 }
 #footer1-2 P {
   color: #ffffff;
@@ -136,6 +152,12 @@
 #footer1-2 P {
   color: #ffffff;
   font-size: 16px;
+}
+#msg-box3-33 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-33 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 
 
@@ -151,10 +173,4 @@
 #footer1-2 P {
   color: #ffffff;
   font-size: 16px;
-}
-#msg-box3-33 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-33 .mbr-header .mbr-header__subtext {
-  text-align: center;
 }
